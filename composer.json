@@ -1,0 +1,20 @@
+{
+  "name": "huangdingbo/yii2-sync-console",
+  "description": "数据同步模块-控制台端",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "authors": [
+    {
+      "name": "huangdingbo",
+      "email": "378969398@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "dsj\\sync\\console\\": "src"
+    }
+  }
+}
